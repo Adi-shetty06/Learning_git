@@ -1,3 +1,6 @@
-## this is demonstrating what the GIT does
+## Hello GIT!
 
+- this is coming from the branch `dev-shetty`
 - I'm adding this from `feat-branch`
+
+
